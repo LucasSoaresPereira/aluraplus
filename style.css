@@ -155,7 +155,7 @@ body{
     background-color: var(--branco-principal);
     color: var(--botao-azul);
 }
-@media (max-width: 1200px) {
+@media (max-width: 768px) {
     .principal{
         background-image: url(img/Background.png);
         background-repeat: no-repeat;
